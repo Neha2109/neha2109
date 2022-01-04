@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://neha2109.github.io)
+[![MasterHead](https://www.canva.com/design/DAE0figCQzs/Z-rAj1C9J64DIQPA6McCHQ/edit0)](https://neha2109.github.io)
 
 <h1 align="center">Hi 👋, I'm Neha Porwal</h1>
 <h3 align="center">Eat Sleep Code Repeat!!</h3>
