@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAE0figCQzs/Z-rAj1C9J64DIQPA6McCHQ/edit0)](https://neha2109.github.io)
+[![MasterHead](https://www.canva.com/design/DAE0figCQzs/Z-rAj1C9J64DIQPA6McCHQ/)](https://neha2109.github.io)
 
 <h1 align="center">Hi 👋, I'm Neha Porwal</h1>
 <h3 align="center">Eat Sleep Code Repeat!!</h3>
