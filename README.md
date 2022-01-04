@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="175px"/></a>
+<a href="#"><img width="70%" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="140px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neha Porwal</h1>
 <h3 align="center">Eat Sleep Code Repeat !!!</h3>
@@ -51,7 +51,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/neha-porwal-058b6b201"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a
+<a href = "https://linkedin.com/in/https://www.linkedin.com/in/neha-porwal-058b6b201"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 
 </p>
     <br><br>
