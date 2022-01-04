@@ -1,4 +1,4 @@
-<a href="#"><img padding-left="30%" width="100%" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px"/></a>
+<a href="#"><img padding-left="30%" width="100%" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="250px"/></a>
 
 <h1 align="center">Hii... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NEHA PORWAL</h1>
 <h3 align="center">Eat Sleep Code Repeat !!!</h3>
