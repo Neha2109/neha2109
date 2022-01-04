@@ -1,10 +1,10 @@
-<a href="#"><img width="70%" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="140px"/></a>
+<a href="#"><img align="center" width="70%" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="140px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neha Porwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NEHA PORWAL</h1>
 <h3 align="center">Eat Sleep Code Repeat !!!</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋♂️ About Me
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -34,8 +34,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/neha2109/github-readme-stats"><img alt="Neha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neha2109&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Neha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha2109&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/neha2109/github-readme-stats"><img alt="Neha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=neha2109&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/neha2109/github-readme-stats"><img alt="Neha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha2109&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
