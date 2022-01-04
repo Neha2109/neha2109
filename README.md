@@ -51,8 +51,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/neha-porwal-058b6b201"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a
+<a href = "https://linkedin.com/in/https://www.linkedin.com/in/neha-porwal-058b6b201"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a
 
 </p>
+    <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha2109" alt="neha2109" /></a> </p>
 
