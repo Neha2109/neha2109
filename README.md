@@ -2,15 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Neha Porwal</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2109&label=Profile%20views&color=129e00&style=plastic" alt="neha2109" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
+
 - 👨‍💻 You can also check out my portfolio at [https://neha2109.github.io/](https://neha2109.github.io/)
-
-
 - 📫 How to reach me **porwalneha.porwal@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bI30piYn6v57xUIVnhlLBSDKHWfeCWWm/view?usp=sharing](https://drive.google.com/file/d/1bI30piYn6v57xUIVnhlLBSDKHWfeCWWm/view?usp=sharing)
-
 - ⚡ Fun fact **You don't need to by-heart all syntax....google it**
 
 <h3 align="left">Connect with me:</h3>
