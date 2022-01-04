@@ -2,7 +2,8 @@
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha2109" alt="neha2109" /></a> </p>
-
+p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2109&label=Profile%20views&color=129e00&style=plastic" alt="neha2109" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 👨‍💻 You can also check out my portfolio at [https://neha2109.github.io/](https://neha2109.github.io/)
 
 
