@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://www.canva.com/design/DAE0figCQzs/Z-rAj1C9J64DIQPA6McCHQ/edit">
+
 <h1 align="center">Hi 👋, I'm Neha Porwal</h1>
 <h3 align="center">Eat Sleep Code Repeat!!</h3>
 
