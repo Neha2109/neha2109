@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha2109" alt="neha2109" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://neha2109.github.io/](https://neha2109.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://neha2109.github.io/](https://neha2109.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@porwalneha.porwal](https://medium.com/@porwalneha.porwal)
 
 - 📫 How to reach me **porwalneha.porwal@gmail.com**
 
