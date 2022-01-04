@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://neha2109.github.io)
 
 <h1 align="center">Hi 👋, I'm Neha Porwal</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+<h3 align="center">Eat Sleep Code Repeat!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
